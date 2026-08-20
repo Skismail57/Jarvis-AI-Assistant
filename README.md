@@ -129,9 +129,9 @@ Built with a **FastAPI + Python backend** and a **React + Vite + Tailwind fronte
 |------|-----------|---------|
 | <img src="https://skillicons.dev/icons?i=fastapi" width="32" height="32" /> | **FastAPI** | High-performance async web framework with auto-generated OpenAPI docs |
 | <img src="https://skillicons.dev/icons?i=python" width="32" height="32" /> | **Python 3.11+** | Core runtime for AI, ML, and PC automation |
-| <img src="https://trychroma.com/favicon.ico" width="32" height="32" /> | **ChromaDB** | Open-source vector database for semantic long-term memory |
+| 🟪 | **ChromaDB** | Open-source vector database for semantic long-term memory |
 | 🤗 | **HuggingFace Transformers** | Whisper STT, embeddings, LLM backbones |
-| 🔥 | **PyTorch** | ML/DL engine for neural models (CUDA optional) |
+| <img src="https://skillicons.dev/icons?i=pytorch" width="32" height="32" /> | **PyTorch** | ML/DL engine for neural models (CUDA optional) |
 | 🎙️ | **SpeechRecognition** | Microphone input + Google/Whisper STT engines |
 | 🔊 | **edge-tts** | High-quality Microsoft neural voices (offline-capable cache) |
 | 🦜 | **pyttsx3 / gTTS** | Offline & Google TTS fallbacks |
@@ -139,15 +139,15 @@ Built with a **FastAPI + Python backend** and a **React + Vite + Tailwind fronte
 | 📊 | **Pydantic v2** | Runtime type validation + `.env` settings management |
 | 📝 | **Loguru** | Structured, colorful, rotating-file logging |
 | 🔌 | **WebSockets** | Real-time chat streaming + live metrics push |
-| 🪟 | **PyAutoGUI / PyInput** | Keyboard/mouse automation for PC control |
+| 🪟 | **PyAutoGUI / pynput** | Keyboard/mouse automation for PC control |
 | 💿 | **psutil / pycaw** | System metrics + Windows Core Audio volume control |
 | 👁️ | **face-recognition** | dlib-based face detection + encoding matching |
-| 🔍 | **scikit-learn** | TF-IDF + SVM intent classifier (retrainable) |
+| <img src="https://skillicons.dev/icons?i=scikitlearn" width="32" height="32" /> | **scikit-learn** | TF-IDF + SVM intent classifier (retrainable) |
 | 📚 | **NLTK** | Tokenization, text preprocessing for NLP |
 | 🔎 | **Sentence-Transformers** | `all-MiniLM-L6-v2` embedding model for vector search |
 | 🦆 | **ddgs (DuckDuckGo)** | Privacy-first web search + news lookup |
 | 📧 | **Google API Client** | Gmail + Calendar + M365 integrations |
-| 🦓 | **Pytest** | Unit + integration test suite (14+ test modules) |
+| <img src="https://skillicons.dev/icons?i=pytest" width="32" height="32" /> | **Pytest** | Unit + integration test suite (14+ test modules) |
 
 ### ⚛️ Frontend — React 18 + Vite 5
 
@@ -157,10 +157,10 @@ Built with a **FastAPI + Python backend** and a **React + Vite + Tailwind fronte
 | <img src="https://skillicons.dev/icons?i=vite" width="32" height="32" /> | **Vite 5.4** | Lightning-fast dev server + optimized production builds |
 | <img src="https://skillicons.dev/icons?i=tailwindcss" width="32" height="32" /> | **Tailwind CSS 3.4** | Utility-first CSS with custom JARVIS neon theme |
 | 🐻 | **Zustand** | Minimal, fast state management (2 stores: auth + app) |
-| 💫 | **Framer Motion** | Page transitions, orbs, pulse-glow animations, stagger effects |
-| 🗺️ | **React Router v7** | Login/Signup/Biometric → Main app route protection |
+| <img src="https://skillicons.dev/icons?i=framer" width="32" height="32" /> | **Framer Motion** | Page transitions, orbs, pulse-glow animations, stagger effects |
+| <img src="https://skillicons.dev/icons?i=reactrouter" width="32" height="32" /> | **React Router v7** | Login/Signup/Biometric → Main app route protection |
 | 📈 | **Recharts** | Real-time CPU/RAM/Network line charts (System Dashboard) |
-| 🔗 | **Axios** | HTTP client w/ interceptors & unified error handling |
+| <img src="https://skillicons.dev/icons?i=axios" width="32" height="32" /> | **Axios** | HTTP client w/ interceptors & unified error handling |
 | 🧭 | **Lucide React** | Clean icon set for all UI components |
 | ⏱️ | **date-fns** | Date/time formatting for reminders & timestamps |
 | 🌐 | **Native WebSockets** | Custom `JarvisWS` class w/ auto-reconnect & exponential backoff |
