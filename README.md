@@ -127,7 +127,7 @@ Automated testing results showing test coverage and performance metrics
         <sub>scikit-learn</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="OpenAI" width="60" height="60"/>
+        <img src="icons/openai-new-logo_f252fc.webp" alt="OpenAI" width="60" height="60"/>
         <br/>
         <sub>OpenAI</sub>
       </td>
