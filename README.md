@@ -122,7 +122,7 @@ Automated testing results showing test coverage and performance metrics
         <sub>TensorFlow</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="60" height="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="60"/>
         <br/>
         <sub>scikit-learn</sub>
       </td>
@@ -297,7 +297,7 @@ Automated testing results showing test coverage and performance metrics
         <sub>Slack Bot</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="60" height="60"/>
+        <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord" width="60" height="60"/>
         <br/>
         <sub>Discord Bot</sub>
       </td>
