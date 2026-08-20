@@ -127,7 +127,7 @@ Automated testing results showing test coverage and performance metrics
         <sub>scikit-learn</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/OpenAI_Logo.svg" alt="OpenAI" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="OpenAI" width="60" height="60"/>
         <br/>
         <sub>OpenAI</sub>
       </td>
@@ -185,7 +185,7 @@ Automated testing results showing test coverage and performance metrics
         <sub>Axios</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/recharts/recharts-original.svg" alt="Recharts" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Recharts" width="60" height="60"/>
         <br/>
         <sub>Recharts</sub>
       </td>
@@ -208,12 +208,12 @@ Automated testing results showing test coverage and performance metrics
         <sub>Sentence Transformers</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/nltk" alt="NLTK" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="NLTK" width="60" height="60"/>
         <br/>
         <sub>NLTK</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/SpeechRecognition.svg" alt="SpeechRecognition" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="SpeechRecognition" width="60" height="60"/>
         <br/>
         <sub>SpeechRecognition</sub>
       </td>
@@ -223,7 +223,7 @@ Automated testing results showing test coverage and performance metrics
         <sub>OpenCV</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Face_recognition_icon.svg" alt="Face Recognition" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="Face Recognition" width="60" height="60"/>
         <br/>
         <sub>Face Recognition</sub>
       </td>
@@ -236,7 +236,7 @@ Automated testing results showing test coverage and performance metrics
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://www.trychroma.com/static/chroma-logo-dark.svg" alt="ChromaDB" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="ChromaDB" width="60" height="60"/>
         <br/>
         <sub>ChromaDB</sub>
       </td>
@@ -254,7 +254,7 @@ Automated testing results showing test coverage and performance metrics
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Fingerprint_scanner.svg" alt="Biometric Auth" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Biometric Auth" width="60" height="60"/>
         <br/>
         <sub>Biometric Auth</sub>
       </td>
@@ -264,7 +264,7 @@ Automated testing results showing test coverage and performance metrics
         <sub>JWT Tokens</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/SHA256.svg" alt="SHA-256" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="SHA-256" width="60" height="60"/>
         <br/>
         <sub>SHA-256 Encryption</sub>
       </td>
