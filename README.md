@@ -1125,9 +1125,5 @@ A huge thank-you to the open-source community for the libraries that make JARVIS
 </p>
 
 <p align="center">
-  <strong>Questions? Issues?</strong><br />
-  **Version**: 2.0.0 | **Last Updated**: August 2026
-p"</em> t
+**Version**: 2.0.0 | **Last Updated**: August 2026
 </p>
-
----
