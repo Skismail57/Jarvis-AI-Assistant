@@ -98,48 +98,48 @@ Automated testing results showing test coverage and performance metrics
 ## 🚀 Technology Stack
 
 ### Backend Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) 
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) 
-![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/> FastAPI
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/> PyTorch
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/> TensorFlow
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="50" height="50"/> scikit-learn
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="OpenAI" width="50" height="50"/> OpenAI
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Gemini" width="50" height="50"/> Google Gemini
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Anthropic" width="50" height="50"/> Anthropic
 
 ### Frontend Technologies
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-FF0080?style=for-the-badge&logo=framer&logoColor=white) 
-![Zustand](https://img.shields.io/badge/Zustand-4338CA?style=for-the-badge&logo=zustand&logoColor=white) 
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) 
-![Recharts](https://img.shields.io/badge/Recharts-27AE60?style=for-the-badge&logo=recharts&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/> React
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" height="50"/> Vite
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50"/> TailwindCSS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Framer Motion" width="50" height="50"/> Framer Motion
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Zustand" width="50" height="50"/> Zustand
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Router" width="50" height="50"/> React Router
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Axios" width="50" height="50"/> Axios
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Recharts" width="50" height="50"/> Recharts
 
 ### AI & ML Libraries
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white) 
-![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-7952F3?style=for-the-badge&logo=huggingface&logoColor=white) 
-![NLTK](https://img.shields.io/badge/NLTK-FF9F1C?style=for-the-badge&logo=nltk&logoColor=white) 
-![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-4285F4?style=for-the-badge&logo=speechrecognition&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE7?style=for-the-badge&logo=opencv&logoColor=white) 
-![Face Recognition](https://img.shields.io/badge/Face%20Recognition-FF6F00?style=for-the-badge&logo=face-recognition&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Transformers" width="50" height="50"/> Transformers
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Sentence Transformers" width="50" height="50"/> Sentence Transformers
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="NLTK" width="50" height="50"/> NLTK
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="SpeechRecognition" width="50" height="50"/> SpeechRecognition
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/> OpenCV
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Face Recognition" width="50" height="50"/> Face Recognition
 
 ### Database & Storage
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7952F3?style=for-the-badge&logo=chromadb&logoColor=white) 
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="ChromaDB" width="50" height="50"/> ChromaDB
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="50" height="50"/> JSON Storage
 
 ### Authentication & Security
-![Biometric Auth](https://img.shields.io/badge/Biometric-FF6F00?style=for-the-badge&logo=biometric&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white) 
-![SHA-256](https://img.shields.io/badge/SHA--256-FF0000?style=for-the-badge&logo=sha256&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Biometric Auth" width="50" height="50"/> Biometric Auth
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="JWT" width="50" height="50"/> JWT Tokens
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="SHA-256" width="50" height="50"/> SHA-256 Encryption
 
 ### APIs & Integrations
-![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white) 
-![Todoist](https://img.shields.io/badge/Todoist-E34234?style=for-the-badge&logo=todoist&logoColor=white) 
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white) 
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google APIs" width="50" height="50"/> Google APIs
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Todoist" width="50" height="50"/> Todoist
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Home Assistant" width="50" height="50"/> Home Assistant
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="50" height="50"/> Slack Bot
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="50" height="50"/> Discord Bot
 
 ## ✨ Features
 
