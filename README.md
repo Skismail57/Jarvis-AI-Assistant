@@ -127,7 +127,7 @@ Automated testing results showing test coverage and performance metrics
         <sub>scikit-learn</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="OpenAI" width="60" height="60"/>
         <br/>
         <sub>OpenAI</sub>
       </td>
@@ -170,7 +170,7 @@ Automated testing results showing test coverage and performance metrics
         <sub>Framer Motion</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/zustand" alt="Zustand" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Zustand" width="60" height="60"/>
         <br/>
         <sub>Zustand</sub>
       </td>
@@ -185,7 +185,7 @@ Automated testing results showing test coverage and performance metrics
         <sub>Axios</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/recharts" alt="Recharts" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Recharts" width="60" height="60"/>
         <br/>
         <sub>Recharts</sub>
       </td>
@@ -236,7 +236,7 @@ Automated testing results showing test coverage and performance metrics
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/chromadb" alt="ChromaDB" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="ChromaDB" width="60" height="60"/>
         <br/>
         <sub>ChromaDB</sub>
       </td>
@@ -292,7 +292,7 @@ Automated testing results showing test coverage and performance metrics
         <sub>Home Assistant</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/slack" alt="Slack" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="60" height="60"/>
         <br/>
         <sub>Slack Bot</sub>
       </td>
