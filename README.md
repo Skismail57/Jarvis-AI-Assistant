@@ -99,199 +99,167 @@ Automated testing results showing test coverage and performance metrics
 
 ### Backend Technologies
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <sub>Python</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   <sub>FastAPI</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   <sub>PyTorch</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <sub>TensorFlow</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
   <sub>scikit-learn</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="OpenAI" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI" width="40" height="40"/>
   <sub>OpenAI</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Gemini" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Gemini" width="40" height="40"/>
   <sub>Google Gemini</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Anthropic" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anthropic/anthropic-original.svg" alt="Anthropic" width="40" height="40"/>
   <sub>Anthropic</sub>
 </div>
 
 ### Frontend Technologies
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <sub>React</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/>
   <sub>Vite</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
   <sub>TailwindCSS</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Framer Motion" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" alt="Framer Motion" width="40" height="40"/>
   <sub>Framer Motion</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Zustand" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" alt="Zustand" width="40" height="40"/>
   <sub>Zustand</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Router" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" alt="React Router" width="40" height="40"/>
   <sub>React Router</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Axios" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" alt="Axios" width="40" height="40"/>
   <sub>Axios</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Recharts" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/recharts/recharts-original.svg" alt="Recharts" width="40" height="40"/>
   <sub>Recharts</sub>
 </div>
 
 ### AI & ML Libraries
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Transformers" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="Transformers" width="40" height="40"/>
   <sub>Transformers</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Sentence Transformers" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentence_transformers/sentence_transformers-original.svg" alt="Sentence Transformers" width="40" height="40"/>
   <sub>Sentence Transformers</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="NLTK" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg" alt="NLTK" width="40" height="40"/>
   <sub>NLTK</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="SpeechRecognition" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/speechrecognition/speechrecognition-original.svg" alt="SpeechRecognition" width="40" height="40"/>
   <sub>SpeechRecognition</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
   <sub>OpenCV</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Face Recognition" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facerecognition/facerecognition-original.svg" alt="Face Recognition" width="40" height="40"/>
   <sub>Face Recognition</sub>
 </div>
 
 ### Database & Storage
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="ChromaDB" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chromadb/chromadb-original.svg" alt="ChromaDB" width="40" height="40"/>
   <sub>ChromaDB</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="40" height="40"/>
   <sub>JSON Storage</sub>
 </div>
 
 ### Authentication & Security
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Biometric Auth" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/biometric/biometric-original.svg" alt="Biometric Auth" width="40" height="40"/>
   <sub>Biometric Auth</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="JWT" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" alt="JWT" width="40" height="40"/>
   <sub>JWT Tokens</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="SHA-256" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sha256/sha256-original.svg" alt="SHA-256" width="40" height="40"/>
   <sub>SHA-256 Encryption</sub>
 </div>
 
 ### APIs & Integrations
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google APIs" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google APIs" width="40" height="40"/>
   <sub>Google APIs</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Todoist" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/todoist/todoist-original.svg" alt="Todoist" width="40" height="40"/>
   <sub>Todoist</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Home Assistant" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/homeassistant/homeassistant-original.svg" alt="Home Assistant" width="40" height="40"/>
   <sub>Home Assistant</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="40" height="40"/>
   <sub>Slack Bot</sub>
 </div>
 &nbsp;
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="60" height="60"/>
-  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
   <sub>Discord Bot</sub>
 </div>
 
