@@ -1,0 +1,470 @@
+{
+  "config_windows_20260819_184401": {
+    "config_id": "config_windows_20260819_184401",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:44:01.942121",
+    "updated_at": "2026-08-19T18:44:01.942157"
+  },
+  "config_windows_20260819_184448": {
+    "config_id": "config_windows_20260819_184448",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:44:48.815451",
+    "updated_at": "2026-08-19T18:44:48.815462"
+  },
+  "config_windows_20260819_184540": {
+    "config_id": "config_windows_20260819_184540",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:45:40.293982",
+    "updated_at": "2026-08-19T18:45:40.293995"
+  },
+  "config_windows_20260819_184626": {
+    "config_id": "config_windows_20260819_184626",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:46:26.223980",
+    "updated_at": "2026-08-19T18:46:26.223990"
+  },
+  "config_windows_20260819_184725": {
+    "config_id": "config_windows_20260819_184725",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:47:25.786644",
+    "updated_at": "2026-08-19T18:47:25.786652"
+  },
+  "config_windows_20260819_184754": {
+    "config_id": "config_windows_20260819_184754",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:47:54.336187",
+    "updated_at": "2026-08-19T18:47:54.336195"
+  },
+  "config_windows_20260819_184831": {
+    "config_id": "config_windows_20260819_184831",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:48:31.997179",
+    "updated_at": "2026-08-19T18:48:31.997186"
+  },
+  "config_windows_20260819_184916": {
+    "config_id": "config_windows_20260819_184916",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:49:16.190470",
+    "updated_at": "2026-08-19T18:49:16.190480"
+  },
+  "config_windows_20260819_184951": {
+    "config_id": "config_windows_20260819_184951",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:49:51.565191",
+    "updated_at": "2026-08-19T18:49:51.565201"
+  },
+  "config_windows_20260819_185035": {
+    "config_id": "config_windows_20260819_185035",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:50:35.756499",
+    "updated_at": "2026-08-19T18:50:35.756507"
+  },
+  "config_windows_20260819_185114": {
+    "config_id": "config_windows_20260819_185114",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:51:14.293996",
+    "updated_at": "2026-08-19T18:51:14.294008"
+  },
+  "config_windows_20260819_185151": {
+    "config_id": "config_windows_20260819_185151",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:51:51.585243",
+    "updated_at": "2026-08-19T18:51:51.585255"
+  },
+  "config_windows_20260819_185223": {
+    "config_id": "config_windows_20260819_185223",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:52:23.105235",
+    "updated_at": "2026-08-19T18:52:23.105242"
+  },
+  "config_windows_20260819_185247": {
+    "config_id": "config_windows_20260819_185247",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:52:47.383555",
+    "updated_at": "2026-08-19T18:52:47.383563"
+  },
+  "config_windows_20260819_185319": {
+    "config_id": "config_windows_20260819_185319",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:53:19.949580",
+    "updated_at": "2026-08-19T18:53:19.949593"
+  },
+  "config_windows_20260819_185402": {
+    "config_id": "config_windows_20260819_185402",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:54:02.252515",
+    "updated_at": "2026-08-19T18:54:02.252529"
+  },
+  "config_windows_20260819_185432": {
+    "config_id": "config_windows_20260819_185432",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:54:32.630611",
+    "updated_at": "2026-08-19T18:54:32.630618"
+  },
+  "config_windows_20260819_185455": {
+    "config_id": "config_windows_20260819_185455",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:54:55.949146",
+    "updated_at": "2026-08-19T18:54:55.949171"
+  },
+  "config_windows_20260819_185522": {
+    "config_id": "config_windows_20260819_185522",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:55:22.958924",
+    "updated_at": "2026-08-19T18:55:22.958935"
+  },
+  "config_windows_20260819_185605": {
+    "config_id": "config_windows_20260819_185605",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:56:05.578425",
+    "updated_at": "2026-08-19T18:56:05.578433"
+  },
+  "config_windows_20260819_185706": {
+    "config_id": "config_windows_20260819_185706",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T18:57:06.633673",
+    "updated_at": "2026-08-19T18:57:06.633687"
+  },
+  "config_windows_20260819_190215": {
+    "config_id": "config_windows_20260819_190215",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T19:02:15.000844",
+    "updated_at": "2026-08-19T19:02:15.000849"
+  },
+  "config_windows_20260819_190305": {
+    "config_id": "config_windows_20260819_190305",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T19:03:05.773116",
+    "updated_at": "2026-08-19T19:03:05.773128"
+  },
+  "config_windows_20260819_190348": {
+    "config_id": "config_windows_20260819_190348",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T19:03:48.803964",
+    "updated_at": "2026-08-19T19:03:48.803975"
+  },
+  "config_windows_20260819_190846": {
+    "config_id": "config_windows_20260819_190846",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T19:08:46.816240",
+    "updated_at": "2026-08-19T19:08:46.816252"
+  },
+  "config_windows_20260819_192858": {
+    "config_id": "config_windows_20260819_192858",
+    "app_name": "JARVIS Desktop",
+    "version": "1.0.0",
+    "platform": "windows",
+    "auto_start": false,
+    "minimize_to_tray": true,
+    "start_minimized": false,
+    "hotkeys": {
+      "wake_word": "Ctrl+Shift+J",
+      "toggle_listen": "Ctrl+Shift+Space",
+      "quit": "Ctrl+Shift+Q"
+    },
+    "theme": "auto",
+    "language": "en",
+    "created_at": "2026-08-19T19:28:58.834632",
+    "updated_at": "2026-08-19T19:28:58.834640"
+  }
+}

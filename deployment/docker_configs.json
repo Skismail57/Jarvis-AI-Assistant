@@ -1,0 +1,646 @@
+{
+  "docker_jarvis_20260819_183518": {
+    "config_id": "docker_jarvis_20260819_183518",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:35:18.928329",
+    "updated_at": "2026-08-19T18:35:18.928337"
+  },
+  "docker_jarvis_20260819_183809": {
+    "config_id": "docker_jarvis_20260819_183809",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:38:09.083528",
+    "updated_at": "2026-08-19T18:38:09.084041"
+  },
+  "docker_jarvis_20260819_184403": {
+    "config_id": "docker_jarvis_20260819_184403",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:44:03.922862",
+    "updated_at": "2026-08-19T18:44:03.922900"
+  },
+  "docker_jarvis_20260819_184449": {
+    "config_id": "docker_jarvis_20260819_184449",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:44:49.022387",
+    "updated_at": "2026-08-19T18:44:49.022398"
+  },
+  "docker_jarvis_20260819_184540": {
+    "config_id": "docker_jarvis_20260819_184540",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:45:40.542225",
+    "updated_at": "2026-08-19T18:45:40.542247"
+  },
+  "docker_jarvis_20260819_184626": {
+    "config_id": "docker_jarvis_20260819_184626",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:46:26.431776",
+    "updated_at": "2026-08-19T18:46:26.431784"
+  },
+  "docker_jarvis_20260819_184726": {
+    "config_id": "docker_jarvis_20260819_184726",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:47:26.007624",
+    "updated_at": "2026-08-19T18:47:26.007634"
+  },
+  "docker_jarvis_20260819_184754": {
+    "config_id": "docker_jarvis_20260819_184754",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:47:54.552834",
+    "updated_at": "2026-08-19T18:47:54.552841"
+  },
+  "docker_jarvis_20260819_184832": {
+    "config_id": "docker_jarvis_20260819_184832",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:48:32.212304",
+    "updated_at": "2026-08-19T18:48:32.212314"
+  },
+  "docker_jarvis_20260819_184916": {
+    "config_id": "docker_jarvis_20260819_184916",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:49:16.397220",
+    "updated_at": "2026-08-19T18:49:16.397235"
+  },
+  "docker_jarvis_20260819_184951": {
+    "config_id": "docker_jarvis_20260819_184951",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:49:51.764476",
+    "updated_at": "2026-08-19T18:49:51.764547"
+  },
+  "docker_jarvis_20260819_185035": {
+    "config_id": "docker_jarvis_20260819_185035",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:50:35.983245",
+    "updated_at": "2026-08-19T18:50:35.983264"
+  },
+  "docker_jarvis_20260819_185114": {
+    "config_id": "docker_jarvis_20260819_185114",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:51:14.546959",
+    "updated_at": "2026-08-19T18:51:14.546970"
+  },
+  "docker_jarvis_20260819_185151": {
+    "config_id": "docker_jarvis_20260819_185151",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:51:51.797458",
+    "updated_at": "2026-08-19T18:51:51.797465"
+  },
+  "docker_jarvis_20260819_185223": {
+    "config_id": "docker_jarvis_20260819_185223",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:52:23.334474",
+    "updated_at": "2026-08-19T18:52:23.334484"
+  },
+  "docker_jarvis_20260819_185247": {
+    "config_id": "docker_jarvis_20260819_185247",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:52:47.610587",
+    "updated_at": "2026-08-19T18:52:47.610597"
+  },
+  "docker_jarvis_20260819_185320": {
+    "config_id": "docker_jarvis_20260819_185320",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:53:20.193518",
+    "updated_at": "2026-08-19T18:53:20.193526"
+  },
+  "docker_jarvis_20260819_185402": {
+    "config_id": "docker_jarvis_20260819_185402",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:54:02.649465",
+    "updated_at": "2026-08-19T18:54:02.649480"
+  },
+  "docker_jarvis_20260819_185432": {
+    "config_id": "docker_jarvis_20260819_185432",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:54:32.847098",
+    "updated_at": "2026-08-19T18:54:32.847109"
+  },
+  "docker_jarvis_20260819_185456": {
+    "config_id": "docker_jarvis_20260819_185456",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:54:56.142834",
+    "updated_at": "2026-08-19T18:54:56.142840"
+  },
+  "docker_jarvis_20260819_185523": {
+    "config_id": "docker_jarvis_20260819_185523",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:55:23.237648",
+    "updated_at": "2026-08-19T18:55:23.237660"
+  },
+  "docker_jarvis_20260819_185605": {
+    "config_id": "docker_jarvis_20260819_185605",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:56:05.847293",
+    "updated_at": "2026-08-19T18:56:05.847305"
+  },
+  "docker_jarvis_20260819_185706": {
+    "config_id": "docker_jarvis_20260819_185706",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T18:57:06.948502",
+    "updated_at": "2026-08-19T18:57:06.948511"
+  },
+  "docker_jarvis_20260819_190215": {
+    "config_id": "docker_jarvis_20260819_190215",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T19:02:15.177855",
+    "updated_at": "2026-08-19T19:02:15.177861"
+  },
+  "docker_jarvis_20260819_190306": {
+    "config_id": "docker_jarvis_20260819_190306",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T19:03:06.332857",
+    "updated_at": "2026-08-19T19:03:06.332932"
+  },
+  "docker_jarvis_20260819_190349": {
+    "config_id": "docker_jarvis_20260819_190349",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T19:03:49.125401",
+    "updated_at": "2026-08-19T19:03:49.125423"
+  },
+  "docker_jarvis_20260819_190847": {
+    "config_id": "docker_jarvis_20260819_190847",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T19:08:47.085357",
+    "updated_at": "2026-08-19T19:08:47.085371"
+  },
+  "docker_jarvis_20260819_192859": {
+    "config_id": "docker_jarvis_20260819_192859",
+    "app_name": "jarvis",
+    "image_name": "jarvis-assistant",
+    "tag": "latest",
+    "base_image": "python:3.11-slim",
+    "expose_ports": [
+      8000
+    ],
+    "environment_variables": {},
+    "volumes": [],
+    "health_check": {
+      "test": [
+        "CMD-SHELL",
+        "curl -f http://localhost:8000/health || exit 1"
+      ],
+      "interval": 30,
+      "timeout": 10,
+      "retries": 3
+    },
+    "created_at": "2026-08-19T19:28:59.024088",
+    "updated_at": "2026-08-19T19:28:59.024095"
+  }
+}
