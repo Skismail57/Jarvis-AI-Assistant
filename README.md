@@ -95,7 +95,7 @@ System shutdown protocol with safe termination procedures
 ![Test Results](Screenshots/Automated%20Test%20Results.png)
 Automated testing results showing test coverage and performance metrics
 
-## �� Technology Stack
+## 🚀 Technology Stack
 
 ### Backend Technologies
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
