@@ -13,81 +13,87 @@ A sophisticated AI voice assistant built with Python, featuring advanced machine
 ### Cover Image
 ![Cover Image](Screenshots/cover%20image.png)
 
-### Authentication Screens
+### 🔐 Biometric Authentication Screens
 
-#### Login Page with Cute Lamp Design
-![Login Page](Screenshots/Screenshot%202026-08-20%20103659.png)
-Interactive lamp-themed login interface with GSAP animations and pull-cord activation
+#### Biometric Login System
+![Biometric Login System](Screenshots/Biometric%20Authentication%20%E2%80%93%20Login%20System.png)
+Secure login interface with biometric authentication support
 
-#### Login Page - Lamp Animation
-![Login Lamp](Screenshots/Screenshot%202026-08-19%20190643.png)
-Animated lamp login interface with pull-cord interaction
+#### Face Recognition Enrollment
+![Face Recognition Enrollment](Screenshots/Biometric%20Authentication%20%E2%80%93%20Face%20Recognition%20Enrollment.png)
+Face recognition enrollment with camera capture and real-time feedback
 
-#### Signup Page
-![Signup Page](Screenshots/Screenshot%202026-08-19%20214018.png)
-User registration page with form validation and email support
+#### Voice Recognition Enrollment
+![Voice Recognition Enrollment](Screenshots/Biometric%20Authentication%20%E2%80%93%20Voice%20Recognition%20Enrollment.png)
+Voice recognition enrollment with microphone capture and waveform visualization
 
-#### Biometric Enrollment Page
-![Biometric Enrollment](Screenshots/Screenshot%202026-08-19%20214048.png)
-Biometric enrollment interface with face and voice recognition options
+### 🎯 Main Dashboard & Interface
 
-#### Biometric Enrollment - Camera Feed
-![Biometric Camera](Screenshots/Screenshot%202026-08-19%20214101.png)
-Live camera feed for face template enrollment with visual guidance
+#### JARVIS System Dashboard
+![System Dashboard](Screenshots/JARVIS%20AI%20Voice%20Assistant%20%E2%80%93%20System%20Dashboard.jpg)
+Primary system dashboard with real-time metrics and controls
 
-### Main Interface Screens
+#### AI Chat & Quantum Data Router
+![AI Chat Interface](Screenshots/JARVIS%20AI%20Voice%20Assistant%20%E2%80%93%20AI%20Chat%20%26%20Quantum%20Data%20Router.jpg)
+Main chat interface with quantum data routing capabilities
 
-#### Main Dashboard with Chat
-![Main Dashboard](Screenshots/20260819_090318.jpg)
-Primary dashboard with chat interface, conversation history, and AI responses
+#### Real-Time Voice Assistant HUD
+![Voice Assistant HUD](Screenshots/Real-Time%20Voice%20Assistant%20HUD.jpg)
+Real-time voice assistant heads-up display with live audio visualization
 
-#### System Metrics Dashboard
-![System Metrics](Screenshots/20260819_093234.jpg)
-System monitoring with CPU, RAM, disk usage metrics and animated progress bars
+### 🤖 AI & Development Features
 
-#### Settings Panel
-![Settings Panel](Screenshots/20260819_093336.jpg)
-Configuration panel for API keys, TTS/STT engines, and system settings
+#### AI Agent Pipeline
+![AI Agent Pipeline](Screenshots/AI%20Agent%20Pipeline.jpg)
+AI agent processing pipeline showing workflow and data flow
 
-#### Skills Dashboard
-![Skills Dashboard](Screenshots/20260819_093413.jpg)
-View and manage available skills and plugins
+#### AI Code Studio
+![AI Code Studio](Screenshots/AI%20Code%20Studio.jpg)
+Integrated development environment with AI-powered code assistance
 
-#### Memory Panel
-![Memory Panel](Screenshots/20260819_093452.jpg)
-Browse conversation memory and vector database with semantic search
+#### AI Media & Video Generation Studio
+![Media Generation Studio](Screenshots/JARVIS%20AI%20Voice%20Assistant%20%E2%80%93%20AI%20Media%20%26%20Video%20Generation%20Studio.jpg)
+AI-powered media and video generation studio interface
 
-#### Profiles Panel
-![Profiles Panel](Screenshots/20260819_093526.jpg)
-User profile management with permissions and personalized settings
+### 🧠 Memory & Intelligence
 
-#### Reminders Panel
-![Reminders Panel](Screenshots/20260819_093555.jpg)
-Reminder management with natural language scheduling
+#### Hybrid Memory Architecture
+![Hybrid Memory](Screenshots/JARVIS%20V2.0%20%E2%80%93%20Hybrid%20Memory%20Architecture.png)
+Advanced hybrid memory architecture combining multiple memory systems
 
-#### Chat Interface View
-![Chat Interface](Screenshots/20260819_093621.jpg)
-Chat interface showing conversation with JARVIS AI assistant
+#### Neural Memory & ChromaDB Storage
+![Neural Memory Storage](Screenshots/JARVIS%20V2.0%20%E2%80%93%20Neural%20Memory%20%26%20ChromaDB%20Storage.png)
+Neural memory system with ChromaDB vector storage integration
 
-#### Dashboard with Sidebar
-![Dashboard Sidebar](Screenshots/20260819_093657.jpg)
-Dashboard view with sidebar navigation and panel selection
+#### Document RAG & Vector Memory
+![Document RAG](Screenshots/Document%20RAG%20%26%20Vector%20Memory.jpg)
+Retrieval-augmented generation with vector memory for document processing
 
-#### Settings Configuration
-![Settings Config](Screenshots/20260819_093726.jpg)
-Settings panel showing configuration options and API key management
+### 📅 Productivity & Scheduling
 
-#### Memory Management
-![Memory Management](Screenshots/20260819_093750.jpg)
-Memory panel showing conversation history and vector database entries
+#### Natural Language Reminder Scheduler
+![Reminder Scheduler](Screenshots/JARVIS%20V2.0%20%E2%80%93%20Natural%20Language%20Reminder%20Scheduler.png)
+Natural language reminder scheduler with intelligent parsing
 
-#### Modern Dashboard View
-![Modern Dashboard](Screenshots/Screenshot%202026-08-20%20104850.png)
-Modern dashboard with chat interface, sidebar, and real-time status
+### 🖥️ System Management
 
-#### System Dashboard View
-![System Dashboard](Screenshots/Screenshot%202026-08-20%20104909.png)
-System dashboard with performance metrics and monitoring
+#### Virtual File Manager
+![File Manager](Screenshots/Virtual%20File%20Manager.jpg)
+Virtual file manager for system file operations and management
+
+#### DevOps & Production Monitoring Dashboard
+![DevOps Dashboard](Screenshots/DevOps%20%26%20Production%20Monitoring%20Dashboard.jpg)
+Production monitoring dashboard with DevOps metrics and alerts
+
+#### JARVIS OS Shutdown Protocol
+![Shutdown Protocol](Screenshots/JARVIS%20OS%20Shutdown%20Protocol.jpg)
+System shutdown protocol with safe termination procedures
+
+### 🧪 Testing & Development
+
+#### Automated Test Results
+![Test Results](Screenshots/Automated%20Test%20Results.png)
+Automated testing results showing test coverage and performance metrics
 
 ## �� Technology Stack
 
