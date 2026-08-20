@@ -122,22 +122,22 @@ Automated testing results showing test coverage and performance metrics
         <sub>TensorFlow</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="60" height="60"/>
         <br/>
         <sub>scikit-learn</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/OpenAI_Logo.svg" alt="OpenAI" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI" width="60" height="60"/>
         <br/>
         <sub>OpenAI</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4736054ff6ffe2f.svg" alt="Google Gemini" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Gemini" width="60" height="60"/>
         <br/>
         <sub>Google Gemini</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://www.anthropic.com/images/brand-assets/anthropic-logo-full-color-dark.svg" alt="Anthropic" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Anthropic" width="60" height="60"/>
         <br/>
         <sub>Anthropic</sub>
       </td>
@@ -198,22 +198,22 @@ Automated testing results showing test coverage and performance metrics
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="Transformers" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Transformers" width="60" height="60"/>
         <br/>
         <sub>Transformers</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="Sentence Transformers" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Sentence Transformers" width="60" height="60"/>
         <br/>
         <sub>Sentence Transformers</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/NLTK_logo.svg" alt="NLTK" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="NLTK" width="60" height="60"/>
         <br/>
         <sub>NLTK</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/SpeechRecognition.svg" alt="SpeechRecognition" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="SpeechRecognition" width="60" height="60"/>
         <br/>
         <sub>SpeechRecognition</sub>
       </td>
@@ -223,7 +223,7 @@ Automated testing results showing test coverage and performance metrics
         <sub>OpenCV</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Face_recognition_icon.svg" alt="Face Recognition" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Face Recognition" width="60" height="60"/>
         <br/>
         <sub>Face Recognition</sub>
       </td>
@@ -236,7 +236,7 @@ Automated testing results showing test coverage and performance metrics
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://www.trychroma.com/static/chroma-logo-dark.svg" alt="ChromaDB" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="ChromaDB" width="60" height="60"/>
         <br/>
         <sub>ChromaDB</sub>
       </td>
@@ -254,17 +254,17 @@ Automated testing results showing test coverage and performance metrics
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Fingerprint_scanner.svg" alt="Biometric Auth" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Biometric Auth" width="60" height="60"/>
         <br/>
         <sub>Biometric Auth</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://jwt.io/img/logo.svg" alt="JWT" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="JWT" width="60" height="60"/>
         <br/>
         <sub>JWT Tokens</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/SHA256.svg" alt="SHA-256" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="SHA-256" width="60" height="60"/>
         <br/>
         <sub>SHA-256 Encryption</sub>
       </td>
@@ -282,12 +282,12 @@ Automated testing results showing test coverage and performance metrics
         <sub>Google APIs</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Todoist_logo.svg" alt="Todoist" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Todoist" width="60" height="60"/>
         <br/>
         <sub>Todoist</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg" alt="Home Assistant" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Home Assistant" width="60" height="60"/>
         <br/>
         <sub>Home Assistant</sub>
       </td>
@@ -297,7 +297,7 @@ Automated testing results showing test coverage and performance metrics
         <sub>Slack Bot</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="60" height="60"/>
         <br/>
         <sub>Discord Bot</sub>
       </td>
