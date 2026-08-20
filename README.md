@@ -370,12 +370,12 @@ npm run dev
         <sub>FastAPI</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/uvicorn" alt="Uvicorn" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/python" alt="Uvicorn" width="60" height="60"/>
         <br/>
         <sub>Uvicorn</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/pydantic" alt="Pydantic" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/python" alt="Pydantic" width="60" height="60"/>
         <br/>
         <sub>Pydantic</sub>
       </td>
@@ -417,27 +417,27 @@ npm run dev
         <sub>pytest</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/apachescheduler" alt="APScheduler" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/apache" alt="APScheduler" width="60" height="60"/>
         <br/>
         <sub>APScheduler</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/loguru" alt="Loguru" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/python" alt="Loguru" width="60" height="60"/>
         <br/>
         <sub>Loguru</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/websockets" alt="WebSockets" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/socketdotio" alt="WebSockets" width="60" height="60"/>
         <br/>
         <sub>WebSockets</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/httpx" alt="HTTPX" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/python" alt="HTTPX" width="60" height="60"/>
         <br/>
         <sub>HTTPX</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/beautifulsoup" alt="BeautifulSoup" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/python" alt="BeautifulSoup" width="60" height="60"/>
         <br/>
         <sub>BeautifulSoup</sub>
       </td>
@@ -492,12 +492,12 @@ npm run dev
     </tr>
     <tr>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/lucide" alt="Lucide" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/react" alt="Lucide React" width="60" height="60"/>
         <br/>
         <sub>Lucide React</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/datefns" alt="date-fns" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/javascript" alt="date-fns" width="60" height="60"/>
         <br/>
         <sub>date-fns</sub>
       </td>
@@ -507,7 +507,7 @@ npm run dev
         <sub>PostCSS</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/autoprefixer" alt="Autoprefixer" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/postcss" alt="Autoprefixer" width="60" height="60"/>
         <br/>
         <sub>Autoprefixer</sub>
       </td>
@@ -540,22 +540,22 @@ npm run dev
         <sub>OpenCV</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/tesseract" alt="Tesseract OCR" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/python" alt="Tesseract OCR" width="60" height="60"/>
         <br/>
         <sub>Tesseract OCR</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/porcupine" alt="Porcupine" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/python" alt="Porcupine" width="60" height="60"/>
         <br/>
         <sub>Porcupine</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/edge" alt="Edge TTS" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/microsoftedge" alt="Edge TTS" width="60" height="60"/>
         <br/>
         <sub>Edge TTS</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/whisper" alt="Whisper" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/openai" alt="Whisper" width="60" height="60"/>
         <br/>
         <sub>Whisper</sub>
       </td>
@@ -568,7 +568,7 @@ npm run dev
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/chromadb" alt="ChromaDB" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/python" alt="ChromaDB" width="60" height="60"/>
         <br/>
         <sub>ChromaDB</sub>
       </td>
@@ -586,12 +586,12 @@ npm run dev
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/jsonwebtokens" alt="JWT" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/json" alt="JWT Tokens" width="60" height="60"/>
         <br/>
         <sub>JWT Tokens</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/sha256" alt="SHA-256" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/security" alt="SHA-256 Encryption" width="60" height="60"/>
         <br/>
         <sub>SHA-256 Encryption</sub>
       </td>
