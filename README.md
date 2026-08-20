@@ -1126,7 +1126,8 @@ A huge thank-you to the open-source community for the libraries that make JARVIS
 
 <p align="center">
   <strong>Questions? Issues?</strong><br />
-  Open an issue in the repository or say <em>"show help"</em> to JARVIS in the chat.
+  **Version**: 2.0.0 | **Last Updated**: August 2026
+p"</em> t
 </p>
 
 ---
