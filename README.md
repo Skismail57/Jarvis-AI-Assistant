@@ -102,42 +102,42 @@ Automated testing results showing test coverage and performance metrics
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="icons/python.svg" alt="Python" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/python" alt="Python" width="60" height="60"/>
         <br/>
         <sub>Python</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/fastapi.svg" alt="FastAPI" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" width="60" height="60"/>
         <br/>
         <sub>FastAPI</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/pytorch.svg" alt="PyTorch" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" width="60" height="60"/>
         <br/>
         <sub>PyTorch</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/tensorflow.svg" alt="TensorFlow" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/tensorflow" alt="TensorFlow" width="60" height="60"/>
         <br/>
         <sub>TensorFlow</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/scikitlearn.svg" alt="scikit-learn" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" width="60" height="60"/>
         <br/>
         <sub>scikit-learn</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/openai-new-logo_f252fc.webp" alt="OpenAI" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="60" height="60"/>
         <br/>
         <sub>OpenAI</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/googlegemini.svg" alt="Google Gemini" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini" width="60" height="60"/>
         <br/>
         <sub>Google Gemini</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/anthropic.svg" alt="Anthropic" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/anthropic" alt="Anthropic" width="60" height="60"/>
         <br/>
         <sub>Anthropic</sub>
       </td>
@@ -150,42 +150,42 @@ Automated testing results showing test coverage and performance metrics
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="icons/react.svg" alt="React" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/react" alt="React" width="60" height="60"/>
         <br/>
         <sub>React</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/vite.svg" alt="Vite" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/vite" alt="Vite" width="60" height="60"/>
         <br/>
         <sub>Vite</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/tailwindcss.svg" alt="Tailwind CSS" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="60" height="60"/>
         <br/>
         <sub>TailwindCSS</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/framer.svg" alt="Framer Motion" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/framer" alt="Framer Motion" width="60" height="60"/>
         <br/>
         <sub>Framer Motion</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/javascript.svg" alt="Zustand" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/zustand" alt="Zustand" width="60" height="60"/>
         <br/>
         <sub>Zustand</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/reactrouter.svg" alt="React Router" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/reactrouter" alt="React Router" width="60" height="60"/>
         <br/>
         <sub>React Router</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/axios.svg" alt="Axios" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/axios" alt="Axios" width="60" height="60"/>
         <br/>
         <sub>Axios</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/javascript.svg" alt="Recharts" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/recharts" alt="Recharts" width="60" height="60"/>
         <br/>
         <sub>Recharts</sub>
       </td>
@@ -198,32 +198,32 @@ Automated testing results showing test coverage and performance metrics
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="icons/huggingface.svg" alt="Transformers" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/huggingface" alt="Transformers" width="60" height="60"/>
         <br/>
         <sub>Transformers</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/huggingface.svg" alt="Sentence Transformers" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/huggingface" alt="Sentence Transformers" width="60" height="60"/>
         <br/>
         <sub>Sentence Transformers</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/python.svg" alt="NLTK" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/nltk" alt="NLTK" width="60" height="60"/>
         <br/>
         <sub>NLTK</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/python.svg" alt="SpeechRecognition" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/python" alt="SpeechRecognition" width="60" height="60"/>
         <br/>
         <sub>SpeechRecognition</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/opencv.svg" alt="OpenCV" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/opencv" alt="OpenCV" width="60" height="60"/>
         <br/>
         <sub>OpenCV</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/opencv.svg" alt="Face Recognition" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/opencv" alt="Face Recognition" width="60" height="60"/>
         <br/>
         <sub>Face Recognition</sub>
       </td>
@@ -236,12 +236,12 @@ Automated testing results showing test coverage and performance metrics
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="icons/python.svg" alt="ChromaDB" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/chromadb" alt="ChromaDB" width="60" height="60"/>
         <br/>
         <sub>ChromaDB</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/json.svg" alt="JSON" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/json" alt="JSON" width="60" height="60"/>
         <br/>
         <sub>JSON Storage</sub>
       </td>
@@ -254,17 +254,17 @@ Automated testing results showing test coverage and performance metrics
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="icons/python.svg" alt="Biometric Auth" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/python" alt="Biometric Auth" width="60" height="60"/>
         <br/>
         <sub>Biometric Auth</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/jsonwebtokens.svg" alt="JWT" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/jsonwebtokens" alt="JWT" width="60" height="60"/>
         <br/>
         <sub>JWT Tokens</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/python.svg" alt="SHA-256" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/python" alt="SHA-256" width="60" height="60"/>
         <br/>
         <sub>SHA-256 Encryption</sub>
       </td>
@@ -277,27 +277,27 @@ Automated testing results showing test coverage and performance metrics
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="icons/google.svg" alt="Google APIs" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/google" alt="Google APIs" width="60" height="60"/>
         <br/>
         <sub>Google APIs</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/todoist.svg" alt="Todoist" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/todoist" alt="Todoist" width="60" height="60"/>
         <br/>
         <sub>Todoist</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/homeassistant.svg" alt="Home Assistant" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/homeassistant" alt="Home Assistant" width="60" height="60"/>
         <br/>
         <sub>Home Assistant</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/slack.svg" alt="Slack" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/slack" alt="Slack" width="60" height="60"/>
         <br/>
         <sub>Slack Bot</sub>
       </td>
       <td align="center" width="100">
-        <img src="icons/discord.svg" alt="Discord" width="60" height="60"/>
+        <img src="https://cdn.simpleicons.org/discord" alt="Discord" width="60" height="60"/>
         <br/>
         <sub>Discord Bot</sub>
       </td>
