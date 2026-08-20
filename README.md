@@ -713,6 +713,7 @@ npm run dev
   </table>
 </div>
 
+
 ## 🔧 Configuration
 
 ### Voice Settings
