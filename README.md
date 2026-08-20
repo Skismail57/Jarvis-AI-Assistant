@@ -8,7 +8,7 @@
 
 A sophisticated AI voice assistant built with Python, featuring advanced machine learning, deep learning, and natural language processing capabilities. JARVIS provides a complete personal assistant experience with voice interaction, smart home control, productivity integrations, biometric authentication, and a modern web interface.
 
-## � Project Screenshots
+## 📸 Project Screenshots
 
 ### Cover Image
 ![Cover Image](Screenshots/cover%20image.png)
@@ -19,31 +19,31 @@ A sophisticated AI voice assistant built with Python, featuring advanced machine
 ![Login Page](Screenshots/Screenshot%202026-08-20%20103659.png)
 Interactive lamp-themed login interface with GSAP animations and pull-cord activation
 
+#### Login Page - Lamp Animation
+![Login Lamp](Screenshots/Screenshot%202026-08-19%20190643.png)
+Animated lamp login interface with pull-cord interaction
+
 #### Signup Page
 ![Signup Page](Screenshots/Screenshot%202026-08-19%20214018.png)
 User registration page with form validation and email support
 
-#### Biometric Enrollment - Face Recognition
+#### Biometric Enrollment Page
 ![Biometric Enrollment](Screenshots/Screenshot%202026-08-19%20214048.png)
-Face recognition enrollment with camera capture and real-time feedback
+Biometric enrollment interface with face and voice recognition options
 
-#### Biometric Enrollment with Camera
+#### Biometric Enrollment - Camera Feed
 ![Biometric Camera](Screenshots/Screenshot%202026-08-19%20214101.png)
 Live camera feed for face template enrollment with visual guidance
 
 ### Main Interface Screens
 
-#### Main Dashboard
-![Main Dashboard](Screenshots/Screenshot%202026-08-20%20104850.png)
-Primary dashboard with chat interface, sidebar navigation, and real-time status
+#### Main Dashboard with Chat
+![Main Dashboard](Screenshots/20260819_090318.jpg)
+Primary dashboard with chat interface, conversation history, and AI responses
 
-#### System Dashboard
-![System Dashboard](Screenshots/Screenshot%202026-08-20%20104909.png)
+#### System Metrics Dashboard
+![System Metrics](Screenshots/20260819_093234.jpg)
 System monitoring with CPU, RAM, disk usage metrics and animated progress bars
-
-#### Chat Panel
-![Chat Panel](Screenshots/20260819_090318.jpg)
-Main chat interface with conversation history and AI responses
 
 #### Settings Panel
 ![Settings Panel](Screenshots/20260819_093336.jpg)
@@ -65,27 +65,31 @@ User profile management with permissions and personalized settings
 ![Reminders Panel](Screenshots/20260819_093555.jpg)
 Reminder management with natural language scheduling
 
-#### System Metrics
-![System Metrics](Screenshots/20260819_093234.jpg)
-Real-time system performance monitoring with detailed metrics
+#### Chat Interface View
+![Chat Interface](Screenshots/20260819_093621.jpg)
+Chat interface showing conversation with JARVIS AI assistant
 
-#### Additional Interface Views
-![Interface View 1](Screenshots/20260819_093621.jpg)
-Additional interface components and features
+#### Dashboard with Sidebar
+![Dashboard Sidebar](Screenshots/20260819_093657.jpg)
+Dashboard view with sidebar navigation and panel selection
 
-![Interface View 2](Screenshots/20260819_093657.jpg)
-More interface views showing different panels and features
+#### Settings Configuration
+![Settings Config](Screenshots/20260819_093726.jpg)
+Settings panel showing configuration options and API key management
 
-![Interface View 3](Screenshots/20260819_093726.jpg)
-Interface demonstrating various JARVIS capabilities
+#### Memory Management
+![Memory Management](Screenshots/20260819_093750.jpg)
+Memory panel showing conversation history and vector database entries
 
-![Interface View 4](Screenshots/20260819_093750.jpg)
-Additional interface showcasing system integration
+#### Modern Dashboard View
+![Modern Dashboard](Screenshots/Screenshot%202026-08-20%20104850.png)
+Modern dashboard with chat interface, sidebar, and real-time status
 
-![Interface View 5](Screenshots/Screenshot%202026-08-19%20190643.png)
-Alternative login view with lamp animation
+#### System Dashboard View
+![System Dashboard](Screenshots/Screenshot%202026-08-20%20104909.png)
+System dashboard with performance metrics and monitoring
 
-## �🚀 Technology Stack
+## �� Technology Stack
 
 ### Backend Technologies
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
