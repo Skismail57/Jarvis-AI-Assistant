@@ -97,213 +97,7 @@ Automated testing results showing test coverage and performance metrics
 
 ## 🚀 Technology Stack
 
-### Backend Technologies
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/python" alt="Python" width="60" height="60"/>
-        <br/>
-        <sub>Python</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" width="60" height="60"/>
-        <br/>
-        <sub>FastAPI</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" width="60" height="60"/>
-        <br/>
-        <sub>PyTorch</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/tensorflow" alt="TensorFlow" width="60" height="60"/>
-        <br/>
-        <sub>TensorFlow</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" width="60" height="60"/>
-        <br/>
-        <sub>scikit-learn</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="60" height="60"/>
-        <br/>
-        <sub>OpenAI</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini" width="60" height="60"/>
-        <br/>
-        <sub>Google Gemini</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/anthropic" alt="Anthropic" width="60" height="60"/>
-        <br/>
-        <sub>Anthropic</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### Frontend Technologies
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/react" alt="React" width="60" height="60"/>
-        <br/>
-        <sub>React</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/vite" alt="Vite" width="60" height="60"/>
-        <br/>
-        <sub>Vite</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="60" height="60"/>
-        <br/>
-        <sub>TailwindCSS</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/framer" alt="Framer Motion" width="60" height="60"/>
-        <br/>
-        <sub>Framer Motion</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/zustand" alt="Zustand" width="60" height="60"/>
-        <br/>
-        <sub>Zustand</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/reactrouter" alt="React Router" width="60" height="60"/>
-        <br/>
-        <sub>React Router</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/axios" alt="Axios" width="60" height="60"/>
-        <br/>
-        <sub>Axios</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/recharts" alt="Recharts" width="60" height="60"/>
-        <br/>
-        <sub>Recharts</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### AI & ML Libraries
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/huggingface" alt="Transformers" width="60" height="60"/>
-        <br/>
-        <sub>Transformers</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/huggingface" alt="Sentence Transformers" width="60" height="60"/>
-        <br/>
-        <sub>Sentence Transformers</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/nltk" alt="NLTK" width="60" height="60"/>
-        <br/>
-        <sub>NLTK</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/python" alt="SpeechRecognition" width="60" height="60"/>
-        <br/>
-        <sub>SpeechRecognition</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/opencv" alt="OpenCV" width="60" height="60"/>
-        <br/>
-        <sub>OpenCV</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/opencv" alt="Face Recognition" width="60" height="60"/>
-        <br/>
-        <sub>Face Recognition</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### Database & Storage
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/chromadb" alt="ChromaDB" width="60" height="60"/>
-        <br/>
-        <sub>ChromaDB</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/json" alt="JSON" width="60" height="60"/>
-        <br/>
-        <sub>JSON Storage</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### Authentication & Security
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/python" alt="Biometric Auth" width="60" height="60"/>
-        <br/>
-        <sub>Biometric Auth</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/jsonwebtokens" alt="JWT" width="60" height="60"/>
-        <br/>
-        <sub>JWT Tokens</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/python" alt="SHA-256" width="60" height="60"/>
-        <br/>
-        <sub>SHA-256 Encryption</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### APIs & Integrations
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/google" alt="Google APIs" width="60" height="60"/>
-        <br/>
-        <sub>Google APIs</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/todoist" alt="Todoist" width="60" height="60"/>
-        <br/>
-        <sub>Todoist</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/homeassistant" alt="Home Assistant" width="60" height="60"/>
-        <br/>
-        <sub>Home Assistant</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/slack" alt="Slack" width="60" height="60"/>
-        <br/>
-        <sub>Slack Bot</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/discord" alt="Discord" width="60" height="60"/>
-        <br/>
-        <sub>Discord Bot</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+### 
 
 ## ✨ Features
 
@@ -559,125 +353,365 @@ npm run dev
 - `POST /api/auth/enroll` - Enroll biometric data
 - `POST /api/auth/check-biometric` - Check biometric enrollment status
 
-## 📁 Project Structure
+## 🚀 Technology Stack
 
-```
-Ai Voice Assstant/
-├── assistant/
-│   ├── core/              # Core assistant logic
-│   │   ├── assistant.py   # Main AIAssistant class
-│   │   ├── llm_core.py    # LLM integration
-│   │   ├── agent.py       # Self-thinking agent
-│   │   ├── data_provider.py
-│   │   ├── pc_controller.py
-│   │   ├── active_learning.py
-│   │   ├── auto_learner.py
-│   │   ├── hierarchical_planner.py
-│   │   ├── offline_mode.py
-│   │   └── advanced_web_search.py
-│   ├── voice/             # Voice processing
-│   │   ├── stt.py         # Speech-to-text
-│   │   ├── tts.py         # Text-to-speech
-│   │   ├── wake_word.py   # Basic wake word
-│   │   ├── advanced_wake_word.py  # Advanced wake word
-│   │   ├── multilingual.py
-│   │   ├── emotional_tts.py
-│   │   ├── voice_cloning.py
-│   │   ├── speaker_diarization.py
-│   │   ├── ssml_processor.py
-│   │   ├── streaming_transcription.py
-│   │   ├── audio_enhancement.py
-│   │   └── wake_word_trainer.py
-│   ├── memory/            # Memory systems
-│   │   ├── conversation_memory.py
-│   │   ├── vector_memory.py
-│   │   ├── knowledge_graph.py
-│   │   └── enhanced_rag.py
-│   ├── skills/            # Built-in skills
-│   │   ├── skill_handler.py
-│   │   ├── reminder_scheduler.py
-│   │   └── productivity_skills.py
-│   ├── nlp/               # NLP components
-│   │   ├── intent_classifier.py
-│   │   └── few_shot_intent_classifier.py
-│   ├── vision/            # Vision capabilities
-│   │   └── screen_understanding.py
-│   ├── smarthome/         # Smart home integration
-│   │   ├── home_assistant.py
-│   │   ├── video_streaming.py
-│   │   ├── person_detection.py
-│   │   ├── scene_automation.py
-│   │   ├── energy_monitor.py
-│   │   └── matter_thread.py
-│   ├── identity/          # User profiles
-│   │   └── user_profiles.py
-│   ├── security/          # Security features
-│   │   ├── biometric_auth.py
-│   │   ├── audit_logger.py
-│   │   ├── data_retention.py
-│   │   └── encryption_manager.py
-│   ├── productivity/      # Productivity tools
-│   │   ├── calendar_conflict.py
-│   │   ├── meeting_prep.py
-│   │   ├── project_integration.py
-│   │   ├── task_parser.py
-│   │   └── workflow_automation.py
-│   ├── emotion/           # Emotional intelligence
-│   │   ├── adaptive_response.py
-│   │   ├── personality_system.py
-│   │   └── sentiment_analyzer.py
-│   ├── integrations/      # Third-party integrations
-│   │   ├── cloud_services.py
-│   │   ├── crm_integration.py
-│   │   ├── microsoft365.py
-│   │   └── music_services.py
-│   ├── analytics/         # Analytics
-│   │   └── usage_analytics.py
-│   ├── performance/       # Performance optimization
-│   │   ├── caching.py
-│   │   ├── monitoring.py
-│   │   └── query_optimizer.py
-│   ├── developer/         # Developer tools
-│   │   ├── graphql_api.py
-│   │   ├── sdk.py
-│   │   └── plugin_dependency_manager.py
-│   ├── document_processor/ # Document processing
-│   │   └── document_processor.py
-│   ├── plugins/           # Plugin system
-│   │   ├── plugin_manager.py
-│   │   └── plugin_marketplace.py
-│   ├── server/            # FastAPI web server
-│   │   ├── app.py
-│   │   ├── auth.py
-│   │   └── schemas.py
-│   ├── config.py          # Configuration
-│   └── utils/
-│       └── logger.py
-├── frontend/              # React web interface
-│   ├── src/
-│   │   ├── components/    # UI(Login, Signup, BiometricEnroll, etc.)
-│   │   ├── api/           # API client
-│   │   ├── store/         # State management(authStore, useJarvisStore)
-│   │   └── main.jsx       # Entry point
-│   ├── package.json
-│   └── vite.config.js
-├── plugins/               # Custom plugins (drop-in)
-├── data/                  # Persistent data
-│   ├── chroma_db/         # Vector database
-│   ├── biometric_auth/    # Biometric data
-│   ├── conversation_memory.json
-│   ├── reminders.json
-│   ├── user_profiles.json
-│   ├── users.json
-│   └── tokens.json
-├── models/                # ML models
-├── logs/                  # Log files
-├── Screenshots/           # Project screenshots
-├── tests/                 # Unit tests
-├── main.py                # CLI entry point
-├── requirements.txt       # Python dependencies
-└── .env                   # Environment variables
-```
+### Backend Technologies
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/python" alt="Python" width="60" height="60"/>
+        <br/>
+        <sub>Python</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" width="60" height="60"/>
+        <br/>
+        <sub>FastAPI</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/uvicorn" alt="Uvicorn" width="60" height="60"/>
+        <br/>
+        <sub>Uvicorn</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/pydantic" alt="Pydantic" width="60" height="60"/>
+        <br/>
+        <sub>Pydantic</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" width="60" height="60"/>
+        <br/>
+        <sub>PyTorch</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/tensorflow" alt="TensorFlow" width="60" height="60"/>
+        <br/>
+        <sub>TensorFlow</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" width="60" height="60"/>
+        <br/>
+        <sub>scikit-learn</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="60" height="60"/>
+        <br/>
+        <sub>OpenAI</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/google" alt="Google Gemini" width="60" height="60"/>
+        <br/>
+        <sub>Google Gemini</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/anthropic" alt="Anthropic" width="60" height="60"/>
+        <br/>
+        <sub>Anthropic</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/pytest" alt="pytest" width="60" height="60"/>
+        <br/>
+        <sub>pytest</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/apachescheduler" alt="APScheduler" width="60" height="60"/>
+        <br/>
+        <sub>APScheduler</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/loguru" alt="Loguru" width="60" height="60"/>
+        <br/>
+        <sub>Loguru</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/websockets" alt="WebSockets" width="60" height="60"/>
+        <br/>
+        <sub>WebSockets</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/httpx" alt="HTTPX" width="60" height="60"/>
+        <br/>
+        <sub>HTTPX</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/beautifulsoup" alt="BeautifulSoup" width="60" height="60"/>
+        <br/>
+        <sub>BeautifulSoup</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Frontend Technologies
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/react" alt="React" width="60" height="60"/>
+        <br/>
+        <sub>React</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/vite" alt="Vite" width="60" height="60"/>
+        <br/>
+        <sub>Vite</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="60" height="60"/>
+        <br/>
+        <sub>TailwindCSS</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/framer" alt="Framer Motion" width="60" height="60"/>
+        <br/>
+        <sub>Framer Motion</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/zustand" alt="Zustand" width="60" height="60"/>
+        <br/>
+        <sub>Zustand</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/reactrouter" alt="React Router" width="60" height="60"/>
+        <br/>
+        <sub>React Router</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/axios" alt="Axios" width="60" height="60"/>
+        <br/>
+        <sub>Axios</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/recharts" alt="Recharts" width="60" height="60"/>
+        <br/>
+        <sub>Recharts</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/lucide" alt="Lucide" width="60" height="60"/>
+        <br/>
+        <sub>Lucide React</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/datefns" alt="date-fns" width="60" height="60"/>
+        <br/>
+        <sub>date-fns</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/postcss" alt="PostCSS" width="60" height="60"/>
+        <br/>
+        <sub>PostCSS</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/autoprefixer" alt="Autoprefixer" width="60" height="60"/>
+        <br/>
+        <sub>Autoprefixer</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### AI & ML Libraries
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/huggingface" alt="Transformers" width="60" height="60"/>
+        <br/>
+        <sub>Transformers</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/huggingface" alt="Sentence Transformers" width="60" height="60"/>
+        <br/>
+        <sub>Sentence Transformers</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/nltk" alt="NLTK" width="60" height="60"/>
+        <br/>
+        <sub>NLTK</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/opencv" alt="OpenCV" width="60" height="60"/>
+        <br/>
+        <sub>OpenCV</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/tesseract" alt="Tesseract OCR" width="60" height="60"/>
+        <br/>
+        <sub>Tesseract OCR</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/porcupine" alt="Porcupine" width="60" height="60"/>
+        <br/>
+        <sub>Porcupine</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/edge" alt="Edge TTS" width="60" height="60"/>
+        <br/>
+        <sub>Edge TTS</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/whisper" alt="Whisper" width="60" height="60"/>
+        <br/>
+        <sub>Whisper</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Database & Storage
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/chromadb" alt="ChromaDB" width="60" height="60"/>
+        <br/>
+        <sub>ChromaDB</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/json" alt="JSON" width="60" height="60"/>
+        <br/>
+        <sub>JSON Storage</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Authentication & Security
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/jsonwebtokens" alt="JWT" width="60" height="60"/>
+        <br/>
+        <sub>JWT Tokens</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/sha256" alt="SHA-256" width="60" height="60"/>
+        <br/>
+        <sub>SHA-256 Encryption</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/python" alt="Biometric Auth" width="60" height="60"/>
+        <br/>
+        <sub>Biometric Auth</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### APIs & Integrations
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/google" alt="Google APIs" width="60" height="60"/>
+        <br/>
+        <sub>Google APIs</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/todoist" alt="Todoist" width="60" height="60"/>
+        <br/>
+        <sub>Todoist</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/homeassistant" alt="Home Assistant" width="60" height="60"/>
+        <br/>
+        <sub>Home Assistant</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/slack" alt="Slack" width="60" height="60"/>
+        <br/>
+        <sub>Slack Bot</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/discord" alt="Discord" width="60" height="60"/>
+        <br/>
+        <sub>Discord Bot</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/notion" alt="Notion" width="60" height="60"/>
+        <br/>
+        <sub>Notion</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/microsoft" alt="Microsoft 365" width="60" height="60"/>
+        <br/>
+        <sub>Microsoft 365</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/whatsapp" alt="WhatsApp" width="60" height="60"/>
+        <br/>
+        <sub>WhatsApp</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Mobile & Cross-Platform
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/react" alt="React Native" width="60" height="60"/>
+        <br/>
+        <sub>React Native</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/expo" alt="Expo" width="60" height="60"/>
+        <br/>
+        <sub>Expo</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/android" alt="Android" width="60" height="60"/>
+        <br/>
+        <sub>Android</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/apple" alt="iOS" width="60" height="60"/>
+        <br/>
+        <sub>iOS</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### DevOps & Deployment
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="60" height="60"/>
+        <br/>
+        <sub>Docker</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/git" alt="Git" width="60" height="60"/>
+        <br/>
+        <sub>Git</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="60" height="60"/>
+        <br/>
+        <sub>GitHub</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/python" alt="Desktop App" width="60" height="60"/>
+        <br/>
+        <sub>Desktop App</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/googlechrome" alt="Browser Extension" width="60" height="60"/>
+        <br/>
+        <sub>Browser Extension</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🔧 Configuration
 
