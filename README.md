@@ -123,233 +123,58 @@ Built with a **FastAPI + Python backend** and a **React + Vite + Tailwind fronte
 
 ## 🛠️ Technology Stack
 
-<p>&nbsp;</p>
+### 🐍 Backend — Python 3.11+
 
-### <span style="color:#7b2ff7; font-size:1.6em;"><strong>🖥️ &nbsp; BACKEND TECHNOLOGIES</strong></span>
-<div style="width:100%; height:2px; background:linear-gradient(90deg,#7b2ff7 0%, #ff2e88 50%, #00eaff 100%); margin:4px 0 22px 0; border-radius:2px;"></div>
+| Icon | Technology | Purpose |
+|------|-----------|---------|
+| <img src="https://skillicons.dev/icons?i=fastapi" width="32" height="32" /> | **FastAPI** | High-performance async web framework with auto-generated OpenAPI docs |
+| <img src="https://skillicons.dev/icons?i=python" width="32" height="32" /> | **Python 3.11+** | Core runtime for AI, ML, and PC automation |
+| <img src="https://trychroma.com/favicon.ico" width="32" height="32" /> | **ChromaDB** | Open-source vector database for semantic long-term memory |
+| 🤗 | **HuggingFace Transformers** | Whisper STT, embeddings, LLM backbones |
+| 🔥 | **PyTorch** | ML/DL engine for neural models (CUDA optional) |
+| 🎙️ | **SpeechRecognition** | Microphone input + Google/Whisper STT engines |
+| 🔊 | **edge-tts** | High-quality Microsoft neural voices (offline-capable cache) |
+| 🦜 | **pyttsx3 / gTTS** | Offline & Google TTS fallbacks |
+| ⏰ | **APScheduler** | Reminder scheduling (cron, interval, date triggers) |
+| 📊 | **Pydantic v2** | Runtime type validation + `.env` settings management |
+| 📝 | **Loguru** | Structured, colorful, rotating-file logging |
+| 🔌 | **WebSockets** | Real-time chat streaming + live metrics push |
+| 🪟 | **PyAutoGUI / PyInput** | Keyboard/mouse automation for PC control |
+| 💿 | **psutil / pycaw** | System metrics + Windows Core Audio volume control |
+| 👁️ | **face-recognition** | dlib-based face detection + encoding matching |
+| 🔍 | **scikit-learn** | TF-IDF + SVM intent classifier (retrainable) |
+| 📚 | **NLTK** | Tokenization, text preprocessing for NLP |
+| 🔎 | **Sentence-Transformers** | `all-MiniLM-L6-v2` embedding model for vector search |
+| 🦆 | **ddgs (DuckDuckGo)** | Privacy-first web search + news lookup |
+| 📧 | **Google API Client** | Gmail + Calendar + M365 integrations |
+| 🦓 | **Pytest** | Unit + integration test suite (14+ test modules) |
 
-<table style="width:100%; border-collapse:separate; border-spacing:14px;">
-  <tr>
-    <td style="background:linear-gradient(135deg,#0f0720 0%, #1a0f2e 100%); border:1px solid #7b2ff766; border-radius:18px; padding:22px 10px; text-align:center; width:12.5%;">
-      <img src="https://skillicons.dev/icons?i=python" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Python</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#0f0720 0%, #1a0f2e 100%); border:1px solid #7b2ff766; border-radius:18px; padding:22px 10px; text-align:center; width:12.5%;">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">FastAPI</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#0f0720 0%, #1a0f2e 100%); border:1px solid #7b2ff766; border-radius:18px; padding:22px 10px; text-align:center; width:12.5%;">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">PyTorch</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#0f0720 0%, #1a0f2e 100%); border:1px solid #7b2ff766; border-radius:18px; padding:22px 10px; text-align:center; width:12.5%;">
-      <img src="https://skillicons.dev/icons?i=scikitlearn" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">scikit-learn</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#0f0720 0%, #1a0f2e 100%); border:1px solid #7b2ff766; border-radius:18px; padding:22px 10px; text-align:center; width:12.5%;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pydantic/pydantic-original.svg" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Pydantic v2</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#0f0720 0%, #1a0f2e 100%); border:1px solid #7b2ff766; border-radius:18px; padding:22px 10px; text-align:center; width:12.5%;">
-      <img src="https://skillicons.dev/icons?i=openai" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">OpenAI</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#0f0720 0%, #1a0f2e 100%); border:1px solid #7b2ff766; border-radius:18px; padding:22px 10px; text-align:center; width:12.5%;">
-      <img src="https://skillicons.dev/icons?i=google" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Google Gemini</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#0f0720 0%, #1a0f2e 100%); border:1px solid #7b2ff766; border-radius:18px; padding:22px 10px; text-align:center; width:12.5%;">
-      <img src="https://skillicons.dev/icons?i=anthropic" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Anthropic</span>
-    </td>
-  </tr>
-</table>
+### ⚛️ Frontend — React 18 + Vite 5
 
-<p>&nbsp;</p>
+| Icon | Technology | Purpose |
+|------|-----------|---------|
+| <img src="https://skillicons.dev/icons?i=react" width="32" height="32" /> | **React 18.3** | Component-based UI with concurrent rendering |
+| <img src="https://skillicons.dev/icons?i=vite" width="32" height="32" /> | **Vite 5.4** | Lightning-fast dev server + optimized production builds |
+| <img src="https://skillicons.dev/icons?i=tailwindcss" width="32" height="32" /> | **Tailwind CSS 3.4** | Utility-first CSS with custom JARVIS neon theme |
+| 🐻 | **Zustand** | Minimal, fast state management (2 stores: auth + app) |
+| 💫 | **Framer Motion** | Page transitions, orbs, pulse-glow animations, stagger effects |
+| 🗺️ | **React Router v7** | Login/Signup/Biometric → Main app route protection |
+| 📈 | **Recharts** | Real-time CPU/RAM/Network line charts (System Dashboard) |
+| 🔗 | **Axios** | HTTP client w/ interceptors & unified error handling |
+| 🧭 | **Lucide React** | Clean icon set for all UI components |
+| ⏱️ | **date-fns** | Date/time formatting for reminders & timestamps |
+| 🌐 | **Native WebSockets** | Custom `JarvisWS` class w/ auto-reconnect & exponential backoff |
 
-### <span style="color:#00eaff; font-size:1.6em;"><strong>🖼️ &nbsp; FRONTEND TECHNOLOGIES</strong></span>
-<div style="width:100%; height:2px; background:linear-gradient(90deg,#00eaff 0%, #7b2ff7 50%, #ff2e88 100%); margin:4px 0 22px 0; border-radius:2px;"></div>
+### 🧰 DevOps & Tooling
 
-<table style="width:100%; border-collapse:separate; border-spacing:14px;">
-  <tr>
-    <td style="background:linear-gradient(135deg,#05111e 0%, #0a1a2e 100%); border:1px solid #00eaff55; border-radius:18px; padding:22px 10px; text-align:center; width:12.5%;">
-      <img src="https://skillicons.dev/icons?i=react" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">React</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#05111e 0%, #0a1a2e 100%); border:1px solid #00eaff55; border-radius:18px; padding:22px 10px; text-align:center; width:12.5%;">
-      <img src="https://skillicons.dev/icons?i=vite" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Vite</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#05111e 0%, #0a1a2e 100%); border:1px solid #00eaff55; border-radius:18px; padding:22px 10px; text-align:center; width:12.5%;">
-      <img src="https://skillicons.dev/icons?i=tailwindcss" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Tailwind CSS</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#05111e 0%, #0a1a2e 100%); border:1px solid #00eaff55; border-radius:18px; padding:22px 10px; text-align:center; width:12.5%;">
-      <img src="https://skillicons.dev/icons?i=framer" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Framer Motion</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#05111e 0%, #0a1a2e 100%); border:1px solid #00eaff55; border-radius:18px; padding:22px 10px; text-align:center; width:12.5%;">
-      <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-78828822a959.svg" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Zustand</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#05111e 0%, #0a1a2e 100%); border:1px solid #00eaff55; border-radius:18px; padding:22px 10px; text-align:center; width:12.5%;">
-      <img src="https://skillicons.dev/icons?i=reactrouter" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">React Router</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#05111e 0%, #0a1a2e 100%); border:1px solid #00eaff55; border-radius:18px; padding:22px 10px; text-align:center; width:12.5%;">
-      <img src="https://skillicons.dev/icons?i=axios" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Axios</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#05111e 0%, #0a1a2e 100%); border:1px solid #00eaff55; border-radius:18px; padding:22px 10px; text-align:center; width:12.5%;">
-      <img src="https://avatars.githubusercontent.com/u/26768931?s=200&v=4" width="54" height="54" style="border-radius:8px;"/><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Recharts</span>
-    </td>
-  </tr>
-</table>
-
-<p>&nbsp;</p>
-
-### <span style="color:#ff2e88; font-size:1.6em;"><strong>🧠 &nbsp; AI &amp; ML LIBRARIES</strong></span>
-<div style="width:100%; height:2px; background:linear-gradient(90deg,#ff2e88 0%, #7b2ff7 50%, #a855f7 100%); margin:4px 0 22px 0; border-radius:2px;"></div>
-
-<table style="width:100%; border-collapse:separate; border-spacing:14px;">
-  <tr>
-    <td style="background:linear-gradient(135deg,#1b0611 0%, #2a0a1d 100%); border:1px solid #ff2e8855; border-radius:18px; padding:22px 10px; text-align:center; width:16.66%;">
-      <img src="https://skillicons.dev/icons?i=huggingface" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Transformers</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#1b0611 0%, #2a0a1d 100%); border:1px solid #ff2e8855; border-radius:18px; padding:22px 10px; text-align:center; width:16.66%;">
-      <img src="https://www.sbert.net/_static/logo.png" width="54" height="54" style="border-radius:8px;"/><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Sentence Transformers</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#1b0611 0%, #2a0a1d 100%); border:1px solid #ff2e8855; border-radius:18px; padding:22px 10px; text-align:center; width:16.66%;">
-      <img src="https://avatars.githubusercontent.com/u/20079991?s=200&v=4" width="54" height="54" style="border-radius:8px;"/><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">NLTK</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#1b0611 0%, #2a0a1d 100%); border:1px solid #ff2e8855; border-radius:18px; padding:22px 10px; text-align:center; width:16.66%;">
-      <span style="display:inline-block; width:54px; height:54px; background:linear-gradient(135deg,#3b82f6,#8b5cf6); border-radius:14px; line-height:54px; font-size:26px;">🎙️</span><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">SpeechRecognition</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#1b0611 0%, #2a0a1d 100%); border:1px solid #ff2e8855; border-radius:18px; padding:22px 10px; text-align:center; width:16.66%;">
-      <img src="https://skillicons.dev/icons?i=opencv" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">OpenCV</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#1b0611 0%, #2a0a1d 100%); border:1px solid #ff2e8855; border-radius:18px; padding:22px 10px; text-align:center; width:16.66%;">
-      <span style="display:inline-block; width:54px; height:54px; background:linear-gradient(135deg,#14b8a6,#6366f1); border-radius:14px; line-height:54px; font-size:28px;">👁️</span><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Face Recognition</span>
-    </td>
-  </tr>
-</table>
-
-<p>&nbsp;</p>
-
-### <span style="color:#22c55e; font-size:1.6em;"><strong>💾 &nbsp; DATABASE &amp; STORAGE</strong></span>
-<div style="width:100%; height:2px; background:linear-gradient(90deg,#22c55e 0%, #00eaff 50%, #7b2ff7 100%); margin:4px 0 22px 0; border-radius:2px;"></div>
-
-<table style="width:100%; border-collapse:separate; border-spacing:14px;">
-  <tr>
-    <td style="width:30%; visibility:hidden;"></td>
-    <td style="background:linear-gradient(135deg,#02130b 0%, #052a18 100%); border:1px solid #22c55e55; border-radius:18px; padding:22px 10px; text-align:center; width:20%;">
-      <span style="display:inline-block; width:54px; height:54px; background:linear-gradient(135deg,#a855f7,#f472b6); border-radius:14px; line-height:54px; font-size:28px;">🟪</span><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:1.05em; margin-top:10px;">ChromaDB</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#02130b 0%, #052a18 100%); border:1px solid #22c55e55; border-radius:18px; padding:22px 10px; text-align:center; width:20%;">
-      <span style="display:inline-block; width:54px; height:54px; background:linear-gradient(135deg,#eab308,#ef4444); border-radius:14px; line-height:54px; font-size:28px;">🧾</span><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:1.05em; margin-top:10px;">JSON Storage</span>
-    </td>
-    <td style="width:30%; visibility:hidden;"></td>
-  </tr>
-</table>
-
-<p>&nbsp;</p>
-
-### <span style="color:#ef4444; font-size:1.6em;"><strong>🛡️ &nbsp; AUTHENTICATION &amp; SECURITY</strong></span>
-<div style="width:100%; height:2px; background:linear-gradient(90deg,#ef4444 0%, #ff2e88 50%, #7b2ff7 100%); margin:4px 0 22px 0; border-radius:2px;"></div>
-
-<table style="width:100%; border-collapse:separate; border-spacing:14px;">
-  <tr>
-    <td style="width:20%; visibility:hidden;"></td>
-    <td style="background:linear-gradient(135deg,#1a0404 0%, #2a0a0a 100%); border:1px solid #ef444466; border-radius:18px; padding:22px 10px; text-align:center; width:20%;">
-      <span style="display:inline-block; width:54px; height:54px; background:linear-gradient(135deg,#ef4444,#f97316); border-radius:14px; line-height:54px; font-size:28px;">🔒</span><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:1.05em; margin-top:10px;">Biometric Auth</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#1a0404 0%, #2a0a0a 100%); border:1px solid #ef444466; border-radius:18px; padding:22px 10px; text-align:center; width:20%;">
-      <span style="display:inline-block; width:54px; height:54px; background:linear-gradient(135deg,#a855f7,#3b82f6); border-radius:14px; line-height:54px; font-size:28px;">🔑</span><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:1.05em; margin-top:10px;">Token Auth</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#1a0404 0%, #2a0a0a 100%); border:1px solid #ef444466; border-radius:18px; padding:22px 10px; text-align:center; width:20%;">
-      <span style="display:inline-block; width:54px; height:54px; background:linear-gradient(135deg,#16a34a,#22d3ee); border-radius:14px; line-height:54px; font-size:26px;">🛡️</span><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:1.05em; margin-top:10px;">SHA-256 Hashing</span>
-    </td>
-    <td style="width:20%; visibility:hidden;"></td>
-  </tr>
-</table>
-
-<p>&nbsp;</p>
-
-### <span style="color:#eab308; font-size:1.6em;"><strong>🔗 &nbsp; APIs &amp; INTEGRATIONS</strong></span>
-<div style="width:100%; height:2px; background:linear-gradient(90deg,#eab308 0%, #f97316 50%, #ef4444 100%); margin:4px 0 22px 0; border-radius:2px;"></div>
-
-<table style="width:100%; border-collapse:separate; border-spacing:14px;">
-  <tr>
-    <td style="width:10%; visibility:hidden;"></td>
-    <td style="background:linear-gradient(135deg,#1a1405 0%, #2a2208 100%); border:1px solid #eab30855; border-radius:18px; padding:22px 10px; text-align:center; width:16%;">
-      <img src="https://skillicons.dev/icons?i=google" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Google APIs</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#1a1405 0%, #2a2208 100%); border:1px solid #eab30855; border-radius:18px; padding:22px 10px; text-align:center; width:16%;">
-      <img src="https://skillicons.dev/icons?i=todoist" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Todoist</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#1a1405 0%, #2a2208 100%); border:1px solid #eab30855; border-radius:18px; padding:22px 10px; text-align:center; width:16%;">
-      <span style="display:inline-block; width:54px; height:54px; background:linear-gradient(135deg,#0ea5e9,#3b82f6); border-radius:14px; line-height:54px; font-size:28px;">🏠</span><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Home Assistant</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#1a1405 0%, #2a2208 100%); border:1px solid #eab30855; border-radius:18px; padding:22px 10px; text-align:center; width:16%;">
-      <span style="display:inline-block; width:54px; height:54px; background:linear-gradient(135deg,#84cc16,#f97316); border-radius:14px; line-height:54px; font-size:26px;">🦆</span><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">DuckDuckGo</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#1a1405 0%, #2a2208 100%); border:1px solid #eab30855; border-radius:18px; padding:22px 10px; text-align:center; width:16%;">
-      <span style="display:inline-block; width:54px; height:54px; background:linear-gradient(135deg,#25D366,#128C7E); border-radius:14px; line-height:54px; font-size:28px;">💬</span><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">WhatsApp</span>
-    </td>
-    <td style="width:10%; visibility:hidden;"></td>
-  </tr>
-</table>
-
-<p>&nbsp;</p>
-
-### <span style="color:#a855f7; font-size:1.6em;"><strong>🧰 &nbsp; DEVOPS &amp; TOOLING</strong></span>
-<div style="width:100%; height:2px; background:linear-gradient(90deg,#a855f7 0%, #7b2ff7 50%, #00eaff 100%); margin:4px 0 22px 0; border-radius:2px;"></div>
-
-<table style="width:100%; border-collapse:separate; border-spacing:14px;">
-  <tr>
-    <td style="background:linear-gradient(135deg,#0f0720 0%, #1a0f2e 100%); border:1px solid #a855f755; border-radius:18px; padding:22px 10px; text-align:center; width:16.66%;">
-      <img src="https://skillicons.dev/icons?i=docker" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Docker</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#0f0720 0%, #1a0f2e 100%); border:1px solid #a855f755; border-radius:18px; padding:22px 10px; text-align:center; width:16.66%;">
-      <img src="https://skillicons.dev/icons?i=git" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Git</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#0f0720 0%, #1a0f2e 100%); border:1px solid #a855f755; border-radius:18px; padding:22px 10px; text-align:center; width:16.66%;">
-      <img src="https://skillicons.dev/icons?i=pytest" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Pytest</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#0f0720 0%, #1a0f2e 100%); border:1px solid #a855f755; border-radius:18px; padding:22px 10px; text-align:center; width:16.66%;">
-      <img src="https://skillicons.dev/icons?i=vscode" width="54" height="54" /><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">VS Code</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#0f0720 0%, #1a0f2e 100%); border:1px solid #a855f755; border-radius:18px; padding:22px 10px; text-align:center; width:16.66%;">
-      <span style="display:inline-block; width:54px; height:54px; background:linear-gradient(135deg,#3b82f6,#7b2ff7); border-radius:14px; line-height:54px; font-size:26px;">📱</span><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">React Native</span>
-    </td>
-    <td style="background:linear-gradient(135deg,#0f0720 0%, #1a0f2e 100%); border:1px solid #a855f755; border-radius:18px; padding:22px 10px; text-align:center; width:16.66%;">
-      <span style="display:inline-block; width:54px; height:54px; background:linear-gradient(135deg,#0ea5e9,#ec4899); border-radius:14px; line-height:54px; font-size:26px;">🖥️</span><br/>
-      <span style="display:block; color:#ffffff; font-weight:600; font-size:0.95em; margin-top:10px;">Tkinter / PyQt</span>
-    </td>
-  </tr>
-</table>
+| Icon | Technology | Purpose |
+|------|-----------|---------|
+| <img src="https://skillicons.dev/icons?i=docker" width="32" height="32" /> | **Docker** | Slim Python 3.11 image w/ health-check (config generator included) |
+| <img src="https://skillicons.dev/icons?i=git" width="32" height="32" /> | **Git** | Version control |
+| <img src="https://skillicons.dev/icons?i=vscode" width="32" height="32" /> | **VS Code** | Recommended IDE |
+| 📱 | **React Native** | Mobile app skeleton (iOS/Android) |
+| 🌐 | **Browser Extension** | Chrome/Firefox extension skeleton (manifest config ready) |
+| 🖥️ | **Tkinter/PyQt** | Cross-platform desktop app skeleton |
 
 ---
 
