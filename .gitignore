@@ -1,0 +1,216 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Data and Logs
+data/
+logs/
+*.log
+*.sqlite
+*.db
+
+# Models and Cache
+models/
+*.pkl
+*.h5
+*.pt
+*.pth
+*.bin
+.cache/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.cache/
+frontend/build/
+
+# ----- Python -----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ----- Virtual Environments -----
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ----- IDEs & Editors -----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ----- Jupyter -----
+.ipynb_checkpoints
+
+# ----- Environment & Secrets (CRITICAL — NEVER commit) -----
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+*.pem
+*.key
+secrets.json
+
+# ----- Data, Logs & Runtime State -----
+data/
+logs/
+*.log
+*.sqlite
+*.db
+chroma_db/
+biometric_auth/
+users.json
+tokens.json
+user_profiles.json
+reminders.json
+custom_qa.json
+face_encodings.pkl
+
+# ----- ML Models & Caches -----
+models/
+*.pkl
+*.h5
+*.pt
+*.pth
+*.bin
+*.safetensors
+.cache/
+huggingface/
+torch/
+nltk_data/
+
+# ----- Frontend (React / Vite) -----
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.cache/
+frontend/build/
+*.tsbuildinfo
+.eslintcache
+
+# ----- Mobile (React Native / Expo) -----
+mobile/node_modules/
+mobile/.expo/
+mobile/ios/Pods/
+mobile/android/.gradle/
+
+# ----- Desktop App -----
+desktop/dist/
+desktop/build/
+
+# ----- Browser Extension -----
+browser_extension/dist/
+
+# ----- Testing -----
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+.hypothesis/
+
+# ----- OS -----
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+$RECYCLE.BIN/
+
+# ----- Temporary Files -----
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.swp
+*.swo
+*~
+
+# ----- Local Packages / Wheels -----
+_pkgs/
+*.whl
+
+# ----- Project-specific Generated Outputs -----
+_test_out.txt
+_test2_out.txt
+*.pyc
+vite.config.js.timestamp-*.mjs
+frontend/vite.config.js.timestamp-*.mjs
+package-lock.json.bak
