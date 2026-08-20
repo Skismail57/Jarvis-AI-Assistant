@@ -1,5 +1,3 @@
----
-
 <p align="center">
   <img src="Screenshots/cover%20image.png" alt="JARVIS Cover" width="800" style="border-radius: 16px; box-shadow: 0 0 60px rgba(123, 47, 247, 0.5);" />
 </p>
