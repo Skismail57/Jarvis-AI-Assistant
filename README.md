@@ -98,49 +98,202 @@ Automated testing results showing test coverage and performance metrics
 ## 🚀 Technology Stack
 
 ### Backend Technologies
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.110.0-009688)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.0.0-EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0.0-FF6F00)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-F7931E)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0.4.22-7952F3)
-![OpenAI](https://img.shields.io/badge/OpenAI-1.30.0-412991)
-![Google Gemini](https://img.shields.io/badge/Gemini-0.5.0-4285F4)
-![Anthropic](https://img.shields.io/badge/Anthropic-0.28.0-D97757)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <br/>
+  <sub>Python</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60" height="60"/>
+  <br/>
+  <sub>FastAPI</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60"/>
+  <br/>
+  <sub>PyTorch</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>
+  <br/>
+  <sub>TensorFlow</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="60" height="60"/>
+  <br/>
+  <sub>scikit-learn</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="OpenAI" width="60" height="60"/>
+  <br/>
+  <sub>OpenAI</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Gemini" width="60" height="60"/>
+  <br/>
+  <sub>Google Gemini</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Anthropic" width="60" height="60"/>
+  <br/>
+  <sub>Anthropic</sub>
+</div>
 
 ### Frontend Technologies
-![React](https://img.shields.io/badge/React-18.3.1-61DAFB)
-![Vite](https://img.shields.io/badge/Vite-5.4.8-646CFF)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4.13-38B2AC)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-11.9.0-FF0080)
-![Zustand](https://img.shields.io/badge/Zustand-5.0.0-4338CA)
-![React Router](https://img.shields.io/badge/React%20Router-7.18.2-CA4245)
-![Axios](https://img.shields.io/badge/Axios-1.7.7-5A29E4)
-![Recharts](https://img.shields.io/badge/Recharts-2.12.7-27AE60)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  <br/>
+  <sub>React</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="60" height="60"/>
+  <br/>
+  <sub>Vite</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="60" height="60"/>
+  <br/>
+  <sub>TailwindCSS</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Framer Motion" width="60" height="60"/>
+  <br/>
+  <sub>Framer Motion</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Zustand" width="60" height="60"/>
+  <br/>
+  <sub>Zustand</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Router" width="60" height="60"/>
+  <br/>
+  <sub>React Router</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Axios" width="60" height="60"/>
+  <br/>
+  <sub>Axios</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Recharts" width="60" height="60"/>
+  <br/>
+  <sub>Recharts</sub>
+</div>
 
 ### AI & ML Libraries
-![Transformers](https://img.shields.io/badge/Transformers-4.30.0-FF6F00)
-![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-2.2.2-7952F3)
-![NLTK](https://img.shields.io/badge/NLTK-3.8.1-FF9F1C)
-![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-3.10.0-4285F4)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.8.0-5C3EE7)
-![Face Recognition](https://img.shields.io/badge/Face%20Recognition-1.3.0-FF6F00)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Transformers" width="60" height="60"/>
+  <br/>
+  <sub>Transformers</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Sentence Transformers" width="60" height="60"/>
+  <br/>
+  <sub>Sentence Transformers</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="NLTK" width="60" height="60"/>
+  <br/>
+  <sub>NLTK</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="SpeechRecognition" width="60" height="60"/>
+  <br/>
+  <sub>SpeechRecognition</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" height="60"/>
+  <br/>
+  <sub>OpenCV</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Face Recognition" width="60" height="60"/>
+  <br/>
+  <sub>Face Recognition</sub>
+</div>
 
 ### Database & Storage
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0.4.22-7952F3)
-![JSON](https://img.shields.io/badge/JSON-Storage-000000)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="ChromaDB" width="60" height="60"/>
+  <br/>
+  <sub>ChromaDB</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="60" height="60"/>
+  <br/>
+  <sub>JSON Storage</sub>
+</div>
 
 ### Authentication & Security
-![Biometric Auth](https://img.shields.io/badge/Biometric-Auth-FF6F00)
-![JWT](https://img.shields.io/badge/JWT-Tokens-000000)
-![SHA-256](https://img.shields.io/badge/SHA--256-Encryption-FF0000)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Biometric Auth" width="60" height="60"/>
+  <br/>
+  <sub>Biometric Auth</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="JWT" width="60" height="60"/>
+  <br/>
+  <sub>JWT Tokens</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="SHA-256" width="60" height="60"/>
+  <br/>
+  <sub>SHA-256 Encryption</sub>
+</div>
 
 ### APIs & Integrations
-![Google APIs](https://img.shields.io/badge/Google%20APIs-2.100.0-4285F4)
-![Todoist](https://img.shields.io/badge/Todoist-2.1.0-E34234)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Integration-41BDF5)
-![Slack](https://img.shields.io/badge/Slack-Bot-4A154B)
-![Discord](https://img.shields.io/badge/Discord-Bot-5865F2)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google APIs" width="60" height="60"/>
+  <br/>
+  <sub>Google APIs</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Todoist" width="60" height="60"/>
+  <br/>
+  <sub>Todoist</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Home Assistant" width="60" height="60"/>
+  <br/>
+  <sub>Home Assistant</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="60" height="60"/>
+  <br/>
+  <sub>Slack Bot</sub>
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="60" height="60"/>
+  <br/>
+  <sub>Discord Bot</sub>
+</div>
 
 ## ✨ Features
 
